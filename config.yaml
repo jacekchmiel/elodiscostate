@@ -1,0 +1,17 @@
+discordServerName: '[kuce]'
+discordChannelName: eloelo
+discordTestChannelName: eloelo-test
+discordTestModePlayers:
+- j
+heroAssignmentStrategy: tags
+globalBannedHeroes:
+- Phantom Lancer
+- Medusa
+unrestrictedPlayers:
+- j
+- Bushee
+- Bania
+- Terka
+- hypys
+- Vifon
+bridgeListenAddr: 127.0.0.1:3005
