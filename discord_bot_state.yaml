@@ -219,6 +219,7 @@ players:
         - Lina
         - Zeus
         - Crystal Maiden
+      banned_heroes: []
       last_match_heroes: []
       last_match_date: null
       duplicate_heroes_opt_out: false
