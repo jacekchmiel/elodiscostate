@@ -212,6 +212,18 @@ players:
       reroll_limit_duration_minutes: 80
       reroll_log:
       - 2026-03-08T20:16:03.994864535+01:00
+  ladymalande:
+    notifications: true
+    dota:
+      allowed_heroes:
+        - Lina
+        - Zeus
+        - Crystal Maiden
+      last_match_heroes: []
+      last_match_date: null
+      duplicate_heroes_opt_out: false
+      reroll_limit_num: 1
+      reroll_limit_duration_minutes: 80
   status._:
     notifications: true
     dota:
