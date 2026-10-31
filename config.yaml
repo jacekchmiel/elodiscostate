@@ -3,7 +3,6 @@ discordChannelName: eloelo
 discordTestChannelName: eloelo-test
 discordTestModePlayers:
 - j
-heroAssignmentStrategy: tags
 globalBannedHeroes:
 - Phantom Lancer
 - Medusa
