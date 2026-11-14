@@ -1,4 +1,144 @@
 players:
+  xerendil:
+    notifications: true
+    dota:
+      banned_heroes: []
+      allowed_heroes:
+      - Dazzle
+      - Jakiro
+      - Venomancer
+      - Wraith King
+      - Silencer
+      - Warlock
+      - Earthshaker
+      - Crystal Maiden
+      - Vengeful Spirit
+      - Centaur Warrunner
+      - Ogre Magi
+      - Shadow Shaman
+      - Death Prophet
+      - Sven
+      - Abaddon
+      - Nature's Prophet
+      - Riki
+      - Razor
+      - Lion
+      - Witch Doctor
+      - Underlord
+      - Sniper
+      - Winter Wyvern
+      - Queen of Pain
+      - Bane
+      - Drow Ranger
+      - Undying
+      - Viper
+      - Weaver
+      - Pugna
+      - Disruptor
+      - Doom
+      - Outworld Destroyer
+      - Lich
+      - Bloodseeker
+      - Bristleback
+      - Leshrac
+      - Dark Seer
+      - Skywrath Mage
+      - Keeper of the Light
+      - Luna
+      - Dragon Knight
+      - Bounty Hunter
+      - Sand King
+      - Chaos Knight
+      - Ursa
+      - Shadow Demon
+      - Rubick
+      - Enigma
+      - Tidehunter
+      - Phantom Assassin
+      - Treant Protector
+      - Alchemist
+      - Axe
+      - Gyrocopter
+      - Huskar
+      - Spirit Breaker
+      - Zeus
+      - Lina
+      - Ancient Apparition
+      num_heroes_shown: 3
+      last_match_heroes: []
+      last_match_date: null
+      duplicate_heroes_opt_out: false
+      reroll_limit_num: 1
+      reroll_limit_duration_minutes: 80
+      reroll_log:
+      - 2026-03-07T19:28:55.373902351+01:00
+  ladymalande:
+    notifications: true
+    dota:
+      banned_heroes: []
+      allowed_heroes:
+      - Crystal Maiden
+      - Lina
+      - Zeus
+      num_heroes_shown: 3
+      last_match_heroes: []
+      last_match_date: null
+      duplicate_heroes_opt_out: false
+      reroll_limit_num: 1
+      reroll_limit_duration_minutes: 80
+      reroll_log: []
+  bixkog:
+    notifications: true
+    dota:
+      banned_heroes:
+      - Arc Warden
+      - Meepo
+      allowed_heroes: []
+      num_heroes_shown: 3
+      last_match_heroes: []
+      last_match_date: null
+      duplicate_heroes_opt_out: false
+      reroll_limit_num: 1
+      reroll_limit_duration_minutes: 80
+      reroll_log:
+      - 2026-11-14T20:20:21.187061601+01:00
+  vifon89:
+    notifications: true
+    dota:
+      banned_heroes:
+      - Kez
+      - Winter Wyvern
+      - Templar Assassin
+      - Warlock
+      - Tusk
+      - Phoenix
+      - Techies
+      - Troll Warlord
+      - Visage
+      - Pugna
+      - Meepo
+      - Arc Warden
+      - Muerta
+      - Invoker
+      - Ringmaster
+      - Rubick
+      - Enigma
+      - Alchemist
+      - Outworld Destroyer
+      - Venomancer
+      - Underlord
+      - Treant Protector
+      - Oracle
+      - Medusa
+      - Keeper of the Light
+      allowed_heroes: []
+      num_heroes_shown: 3
+      last_match_heroes: []
+      last_match_date: null
+      duplicate_heroes_opt_out: false
+      reroll_limit_num: 1
+      reroll_limit_duration_minutes: 80
+      reroll_log: []
   efrajm:
     notifications: true
     dota:
@@ -33,28 +173,20 @@ players:
       reroll_limit_duration_minutes: 80
       reroll_log:
       - 2026-03-07T19:15:58.873432541+01:00
-  goovie.:
+  grzybke:
     notifications: true
     dota:
       banned_heroes:
-      - Anti-Mage
-      - Ringmaster
-      - Ursa
-      - Arc Warden
-      - Underlord
-      - Meepo
-      - Omniknight
-      - Io
-      - Dark Willow
-      - Brewmaster
-      - Elder Titan
+      - Tinker
+      - Oracle
+      - Earth Spirit
       - Invoker
-      - Kez
-      - Chen
+      - Templar Assassin
       - Visage
-      - Broodmother
-      - Morphling
-      - Lone Druid
+      - Io
+      - Ringmaster
+      - Chen
+      - Meepo
       allowed_heroes: []
       num_heroes_shown: 3
       last_match_heroes: []
@@ -63,7 +195,7 @@ players:
       reroll_limit_num: 1
       reroll_limit_duration_minutes: 80
       reroll_log:
-      - 2026-11-13T01:21:42.658190379+01:00
+      - 2026-11-13T18:53:23.256619321+01:00
   powerwazniak:
     notifications: true
     dota:
@@ -146,12 +278,16 @@ players:
       reroll_limit_duration_minutes: 80
       reroll_log:
       - 2026-11-14T18:06:51.103175089+01:00
-  bixkog:
+  muhah:
     notifications: true
     dota:
       banned_heroes:
+      - Kez
       - Arc Warden
-      - Meepo
+      - Marci
+      - Earth Spirit
+      - Chen
+      - Morphling
       allowed_heroes: []
       num_heroes_shown: 3
       last_match_heroes: []
@@ -160,7 +296,130 @@ players:
       reroll_limit_num: 1
       reroll_limit_duration_minutes: 80
       reroll_log:
-      - 2026-11-14T20:20:21.187061601+01:00
+      - 2026-11-14T20:12:06.629827911+01:00
+  alpinus4:
+    notifications: true
+    dota:
+      banned_heroes:
+      - Chen
+      - Meepo
+      - Largo
+      - Arc Warden
+      - Io
+      allowed_heroes: []
+      num_heroes_shown: 3
+      last_match_heroes: []
+      last_match_date: null
+      duplicate_heroes_opt_out: false
+      reroll_limit_num: 1
+      reroll_limit_duration_minutes: 80
+      reroll_log:
+      - 2026-11-14T22:18:13.568244822+01:00
+  status._:
+    notifications: true
+    dota:
+      banned_heroes:
+      - Tusk
+      - Lifestealer
+      - Anti-Mage
+      - Gyrocopter
+      - Morphling
+      - Brewmaster
+      - Lone Druid
+      - Meepo
+      - Dark Seer
+      - Ember Spirit
+      - Void Spirit
+      - Muerta
+      - Alchemist
+      - Phoenix
+      - Visage
+      - Mirana
+      - Templar Assassin
+      - Kez
+      - Tinker
+      - Slark
+      - Earth Spirit
+      - Beastmaster
+      - Invoker
+      - Chen
+      - Grimstroke
+      allowed_heroes: []
+      num_heroes_shown: 3
+      last_match_heroes: []
+      last_match_date: null
+      duplicate_heroes_opt_out: false
+      reroll_limit_num: 1
+      reroll_limit_duration_minutes: 80
+      reroll_log:
+      - 2025-11-09T18:37:09.081679132+01:00
+  bania3411:
+    notifications: true
+    dota:
+      banned_heroes: []
+      allowed_heroes:
+      - Luna
+      - Zeus
+      - Sniper
+      - Venomancer
+      - Witch Doctor
+      - Viper
+      - Crystal Maiden
+      - Jakiro
+      num_heroes_shown: 3
+      last_match_heroes: []
+      last_match_date: null
+      duplicate_heroes_opt_out: false
+      reroll_limit_num: 1
+      reroll_limit_duration_minutes: 80
+      reroll_log: []
+  goovie.:
+    notifications: true
+    dota:
+      banned_heroes:
+      - Anti-Mage
+      - Ringmaster
+      - Ursa
+      - Arc Warden
+      - Underlord
+      - Meepo
+      - Omniknight
+      - Io
+      - Dark Willow
+      - Brewmaster
+      - Elder Titan
+      - Invoker
+      - Kez
+      - Chen
+      - Visage
+      - Broodmother
+      - Morphling
+      - Lone Druid
+      allowed_heroes: []
+      num_heroes_shown: 3
+      last_match_heroes: []
+      last_match_date: null
+      duplicate_heroes_opt_out: false
+      reroll_limit_num: 1
+      reroll_limit_duration_minutes: 80
+      reroll_log:
+      - 2026-11-13T01:21:42.658190379+01:00
+  spawek:
+    notifications: true
+    dota:
+      banned_heroes:
+      - Meepo
+      - Chen
+      - Io
+      - Broodmother
+      allowed_heroes: []
+      num_heroes_shown: 3
+      last_match_heroes: []
+      last_match_date: null
+      duplicate_heroes_opt_out: false
+      reroll_limit_num: 1
+      reroll_limit_duration_minutes: 80
+      reroll_log: []
   hypys:
     notifications: true
     dota:
@@ -260,61 +519,6 @@ players:
       reroll_limit_duration_minutes: 80
       reroll_log:
       - 2026-11-14T16:45:12.737173595+01:00
-  alpinus4:
-    notifications: true
-    dota:
-      banned_heroes:
-      - Chen
-      - Meepo
-      - Largo
-      - Arc Warden
-      - Io
-      allowed_heroes: []
-      num_heroes_shown: 3
-      last_match_heroes: []
-      last_match_date: null
-      duplicate_heroes_opt_out: false
-      reroll_limit_num: 1
-      reroll_limit_duration_minutes: 80
-      reroll_log:
-      - 2026-11-14T17:49:08.232106258+01:00
-  vifon89:
-    notifications: true
-    dota:
-      banned_heroes:
-      - Kez
-      - Winter Wyvern
-      - Templar Assassin
-      - Warlock
-      - Tusk
-      - Phoenix
-      - Techies
-      - Troll Warlord
-      - Visage
-      - Pugna
-      - Meepo
-      - Arc Warden
-      - Muerta
-      - Invoker
-      - Ringmaster
-      - Rubick
-      - Enigma
-      - Alchemist
-      - Outworld Destroyer
-      - Venomancer
-      - Underlord
-      - Treant Protector
-      - Oracle
-      - Medusa
-      - Keeper of the Light
-      allowed_heroes: []
-      num_heroes_shown: 3
-      last_match_heroes: []
-      last_match_date: null
-      duplicate_heroes_opt_out: false
-      reroll_limit_num: 1
-      reroll_limit_duration_minutes: 80
-      reroll_log: []
   busheee:
     notifications: false
     dota:
@@ -334,210 +538,6 @@ players:
       reroll_limit_num: 1
       reroll_limit_duration_minutes: 80
       reroll_log: []
-  status._:
-    notifications: true
-    dota:
-      banned_heroes:
-      - Tusk
-      - Lifestealer
-      - Anti-Mage
-      - Gyrocopter
-      - Morphling
-      - Brewmaster
-      - Lone Druid
-      - Meepo
-      - Dark Seer
-      - Ember Spirit
-      - Void Spirit
-      - Muerta
-      - Alchemist
-      - Phoenix
-      - Visage
-      - Mirana
-      - Templar Assassin
-      - Kez
-      - Tinker
-      - Slark
-      - Earth Spirit
-      - Beastmaster
-      - Invoker
-      - Chen
-      - Grimstroke
-      allowed_heroes: []
-      num_heroes_shown: 3
-      last_match_heroes: []
-      last_match_date: null
-      duplicate_heroes_opt_out: false
-      reroll_limit_num: 1
-      reroll_limit_duration_minutes: 80
-      reroll_log:
-      - 2025-11-09T18:37:09.081679132+01:00
-  ladymalande:
-    notifications: true
-    dota:
-      banned_heroes: []
-      allowed_heroes:
-      - Crystal Maiden
-      - Lina
-      - Zeus
-      num_heroes_shown: 3
-      last_match_heroes: []
-      last_match_date: null
-      duplicate_heroes_opt_out: false
-      reroll_limit_num: 1
-      reroll_limit_duration_minutes: 80
-      reroll_log: []
-  bania3411:
-    notifications: true
-    dota:
-      banned_heroes: []
-      allowed_heroes:
-      - Luna
-      - Zeus
-      - Sniper
-      - Venomancer
-      - Witch Doctor
-      - Viper
-      - Crystal Maiden
-      - Jakiro
-      num_heroes_shown: 3
-      last_match_heroes: []
-      last_match_date: null
-      duplicate_heroes_opt_out: false
-      reroll_limit_num: 1
-      reroll_limit_duration_minutes: 80
-      reroll_log: []
-  xerendil:
-    notifications: true
-    dota:
-      banned_heroes: []
-      allowed_heroes:
-      - Dazzle
-      - Jakiro
-      - Venomancer
-      - Wraith King
-      - Silencer
-      - Warlock
-      - Earthshaker
-      - Crystal Maiden
-      - Vengeful Spirit
-      - Centaur Warrunner
-      - Ogre Magi
-      - Shadow Shaman
-      - Death Prophet
-      - Sven
-      - Abaddon
-      - Nature's Prophet
-      - Riki
-      - Razor
-      - Lion
-      - Witch Doctor
-      - Underlord
-      - Sniper
-      - Winter Wyvern
-      - Queen of Pain
-      - Bane
-      - Drow Ranger
-      - Undying
-      - Viper
-      - Weaver
-      - Pugna
-      - Disruptor
-      - Doom
-      - Outworld Destroyer
-      - Lich
-      - Bloodseeker
-      - Bristleback
-      - Leshrac
-      - Dark Seer
-      - Skywrath Mage
-      - Keeper of the Light
-      - Luna
-      - Dragon Knight
-      - Bounty Hunter
-      - Sand King
-      - Chaos Knight
-      - Ursa
-      - Shadow Demon
-      - Rubick
-      - Enigma
-      - Tidehunter
-      - Phantom Assassin
-      - Treant Protector
-      - Alchemist
-      - Axe
-      - Gyrocopter
-      - Huskar
-      - Spirit Breaker
-      - Zeus
-      - Lina
-      - Ancient Apparition
-      num_heroes_shown: 3
-      last_match_heroes: []
-      last_match_date: null
-      duplicate_heroes_opt_out: false
-      reroll_limit_num: 1
-      reroll_limit_duration_minutes: 80
-      reroll_log:
-      - 2026-03-07T19:28:55.373902351+01:00
-  spawek:
-    notifications: true
-    dota:
-      banned_heroes:
-      - Meepo
-      - Chen
-      - Io
-      - Broodmother
-      allowed_heroes: []
-      num_heroes_shown: 3
-      last_match_heroes: []
-      last_match_date: null
-      duplicate_heroes_opt_out: false
-      reroll_limit_num: 1
-      reroll_limit_duration_minutes: 80
-      reroll_log: []
-  grzybke:
-    notifications: true
-    dota:
-      banned_heroes:
-      - Tinker
-      - Oracle
-      - Earth Spirit
-      - Invoker
-      - Templar Assassin
-      - Visage
-      - Io
-      - Ringmaster
-      - Chen
-      - Meepo
-      allowed_heroes: []
-      num_heroes_shown: 3
-      last_match_heroes: []
-      last_match_date: null
-      duplicate_heroes_opt_out: false
-      reroll_limit_num: 1
-      reroll_limit_duration_minutes: 80
-      reroll_log:
-      - 2026-11-13T18:53:23.256619321+01:00
-  muhah:
-    notifications: true
-    dota:
-      banned_heroes:
-      - Kez
-      - Arc Warden
-      - Marci
-      - Earth Spirit
-      - Chen
-      - Morphling
-      allowed_heroes: []
-      num_heroes_shown: 3
-      last_match_heroes: []
-      last_match_date: null
-      duplicate_heroes_opt_out: false
-      reroll_limit_num: 1
-      reroll_limit_duration_minutes: 80
-      reroll_log:
-      - 2026-11-14T20:12:06.629827911+01:00
 eloelo_players:
 - id: Alpinus4
   displayName: null
